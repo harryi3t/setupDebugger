@@ -41,11 +41,11 @@ setups nodeinspector in multiple docker container
 
 ### Usage
  - Complete step 1 and 2
- - Go to the compoenent folder which you want to debug
- - create a new branch `debug`
- - Complete te step 3 (so that your master branch won't be polluted)
+ - Go to the component folder which you want to debug
+ - Create a new branch `debug`
+ - Complete step 3 (so that your master branch won't be polluted)
  - Come back to master branch
- - execute command `debug COMPONENT` like `debug www` or `debug nf`
+ - Execute command `debug COMPONENT` like `debug www` or `debug nf`
  - A chrome tab will open, now you can place your break points
 
 Happy Debugging !
